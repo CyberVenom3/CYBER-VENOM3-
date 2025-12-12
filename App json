@@ -1,0 +1,38 @@
+
+{
+  "name": "CYBER VENOM3",
+  "description": "CYBER VENOM3, your powerful WhatsApp bot!",
+  "logo": "https://i.ibb.co/7yRZx0T/Cyber-Venom3-logo.jpg",
+  "keywords": ["bot", "whatsapp", "automation", "cybersecurity"],
+  "repository": "https://github.com/CyberVenom3/CYBER-VENOM3-",
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Must begin with 'CYBER-VENOM3:~' or your preferred prefix.",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
