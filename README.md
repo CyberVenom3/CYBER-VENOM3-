@@ -9,27 +9,27 @@ html
 
 <p align="center">
   <a href="https://github.com/CyberVenom3">
-    <img title="Author" src="https://img.shields.io/badge/CyberVenom3-darkgreen?style=for-the-badge&logo=whatsapp">
+    <img title="Author" src="https://freeimage.host/i/f7XBJlR">
   </a>
 </p>
 
 <p align="center">
   <strong>1. FORK REPOSITORY</strong><br>
   <a href="https://github.com/CyberVenom3/CYBER-VENOM3-/fork" target="_blank">
-    <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=github&labelColor=black&color=blue"/>
+    <img alt="Fork Repo" src="https://freeimage.host/i/f7XBJlR"/>
   </a>
 </p>
 
 <p align="center">
   <strong>2. SESSION ID & DEPLOYMENTS</strong><br>
   <a href="https://github.com/CyberVenom3/CYBER-VENOM3-" target="_blank">
-    <img alt="Deploy Now" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=cloud&labelColor=darkred&color=red"/>
+    <img alt="Deploy Now" src="https://freeimage.host/i/f7XBJlR"/>
   </a>
 </p>
 
 <p align="center">
   <strong>3. MY COMMITS</strong><br>
   <a href="https://github.com/CyberVenom3/CYBER-VENOM3-/commits?author=CyberVenom3" target="_blank">
-<img alt="My Commits" src="https://img.shields.io/badge/View%20Commits-CyberVenom3-darkorange?style=for-the-badge&logo=github"/>
+    <img alt="My Commits" src="https://freeimage.host/i/f7XBJlR"/>
   </a>
 </p>
